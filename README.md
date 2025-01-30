@@ -88,7 +88,7 @@
 - 🔗 Social Links:
   <br><br>
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiianguevara/)
-  [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/16525992/chaitanya-pratap-singh)
+  [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)]([https://stackoverflow.com/users/16525992/chaitanya-pratap-singh](https://stackoverflow.com/users/20181641/sebastian-otalora-guevara))
   [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015141066687)
   [![Blog](https://img.shields.io/badge/my%20blog-FFA500?logo=blogger&logoColor=white&style=for-the-badge)](https://chaitanyapratapsingh.blogspot.com/)
   [![Instagram](https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/chaitanya._24/)
